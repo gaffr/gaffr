@@ -4,7 +4,7 @@ This directory is for documentation. We'll figure that out later. It'll probably
 
 ## C++ Source Docs
 
-This is will be the primary concern. We will use one of the following tools:
+This will be the primary concern. We will use one of the following tools:
 
 - Doxygen
 - Sphinx
